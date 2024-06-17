@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="/qt/qml/content">/Users/lyubovkulik/thermostat/build/Qt_6_7_1_for_macOS-RelWithDebInfo/qml/content</file>
+
+  </qresource>
+</RCC>

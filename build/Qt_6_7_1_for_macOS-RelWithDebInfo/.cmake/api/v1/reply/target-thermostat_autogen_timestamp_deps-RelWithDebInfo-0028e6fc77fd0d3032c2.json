@@ -1,0 +1,38 @@
+{
+	"backtrace" : 0,
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : 
+		[
+			"imports/thermostat/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			}
+		]
+	},
+	"dependencies" : 
+	[
+		{
+			"backtrace" : 0,
+			"id" : "thermostat_tooling::@3db1e3b5f02e78132e8f"
+		}
+	],
+	"folder" : 
+	{
+		"name" : "QtInternalTargets"
+	},
+	"id" : "thermostat_autogen_timestamp_deps::@3db1e3b5f02e78132e8f",
+	"isGeneratorProvided" : true,
+	"name" : "thermostat_autogen_timestamp_deps",
+	"paths" : 
+	{
+		"build" : "imports/thermostat",
+		"source" : "imports/thermostat"
+	},
+	"sources" : [],
+	"type" : "UTILITY"
+}

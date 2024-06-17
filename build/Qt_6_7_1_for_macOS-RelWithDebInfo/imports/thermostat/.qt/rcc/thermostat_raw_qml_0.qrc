@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="/qt/qml/thermostat/">
+    <file alias="Constants.qml">/Users/lyubovkulik/thermostat/imports/thermostat/Constants.qml</file>
+    <file alias="DirectoryFontLoader.qml">/Users/lyubovkulik/thermostat/imports/thermostat/DirectoryFontLoader.qml</file>
+    <file alias="EventListModel.qml">/Users/lyubovkulik/thermostat/imports/thermostat/EventListModel.qml</file>
+    <file alias="EventListSimulator.qml">/Users/lyubovkulik/thermostat/imports/thermostat/EventListSimulator.qml</file>
+  </qresource>
+</RCC>
+

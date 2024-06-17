@@ -1,0 +1,6 @@
+--resource
+/Users/lyubovkulik/thermostat/build/Qt_6_7_1_for_macOS-RelWithDebInfo/content/.qt/rcc/qmake_content.qrc
+--resource
+/Users/lyubovkulik/thermostat/build/Qt_6_7_1_for_macOS-RelWithDebInfo/content/.qt/rcc/content_raw_qml_0.qrc
+/qt/qml/content/App.qml
+/qt/qml/content/Screen01.ui.qml

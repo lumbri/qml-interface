@@ -1,0 +1,1 @@
+set(__QT_DEPLOY_TARGET_thermostatApp_FILE /Users/lyubovkulik/thermostat/build/Qt_6_7_1_for_macOS-RelWithDebInfo/thermostatApp)

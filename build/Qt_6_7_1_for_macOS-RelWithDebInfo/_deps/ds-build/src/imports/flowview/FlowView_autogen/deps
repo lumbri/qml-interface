@@ -1,0 +1,8 @@
+FlowView_autogen/timestamp: \
+	/Users/lyubovkulik/Qt/6.7.1/macos/lib/cmake/Qt6Core/Qt6CoreConfigureFileTemplate.in \
+	/Users/lyubovkulik/Qt/6.7.1/macos/lib/cmake/Qt6Core/Qt6CoreResourceInit.in.cpp \
+	/Users/lyubovkulik/Qt/6.7.1/macos/lib/cmake/Qt6Qml/Qt6QmlModuleDirMappingTemplate.qrc.in \
+	/Users/lyubovkulik/Qt/6.7.1/macos/lib/cmake/Qt6Qml/Qt6QmlPluginTemplate.cpp.in \
+	/Users/lyubovkulik/thermostat/build/Qt_6_7_1_for_macOS-RelWithDebInfo/_deps/ds-build/src/imports/flowview/FlowViewplugin_FlowViewPlugin_in.cpp \
+	/Users/lyubovkulik/thermostat/build/Qt_6_7_1_for_macOS-RelWithDebInfo/_deps/ds-src/src/imports/flowview/CMakeLists.txt \
+	/Users/lyubovkulik/Qt/Tools/CMake/CMake.app/Contents/bin/cmake

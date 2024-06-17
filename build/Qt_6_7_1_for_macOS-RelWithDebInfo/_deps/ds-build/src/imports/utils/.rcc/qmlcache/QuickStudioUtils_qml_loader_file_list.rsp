@@ -1,0 +1,7 @@
+--resource
+/Users/lyubovkulik/thermostat/build/Qt_6_7_1_for_macOS-RelWithDebInfo/_deps/ds-build/src/imports/utils/.qt/rcc/qmake_QtQuick_Studio_Utils.qrc
+--resource
+/Users/lyubovkulik/thermostat/build/Qt_6_7_1_for_macOS-RelWithDebInfo/_deps/ds-build/src/imports/utils/.qt/rcc/QuickStudioUtils_raw_qml_0.qrc
+/QtQuick/Studio/Utils/JsonListModel.qml
+/QtQuick/Studio/Utils/JsonBackend.qml
+/QtQuick/Studio/Utils/ChildListModel.qml

@@ -1,0 +1,8 @@
+--resource
+/Users/lyubovkulik/thermostat/build/Qt_6_7_1_for_macOS-RelWithDebInfo/imports/thermostat/.qt/rcc/qmake_thermostat.qrc
+--resource
+/Users/lyubovkulik/thermostat/build/Qt_6_7_1_for_macOS-RelWithDebInfo/imports/thermostat/.qt/rcc/thermostat_raw_qml_0.qrc
+/qt/qml/thermostat/Constants.qml
+/qt/qml/thermostat/DirectoryFontLoader.qml
+/qt/qml/thermostat/EventListModel.qml
+/qt/qml/thermostat/EventListSimulator.qml

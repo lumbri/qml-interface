@@ -1,0 +1,3 @@
+/Users/lyubovkulik/thermostat/build/Qt_6_7_1_for_macOS-RelWithDebInfo/_deps/ds-subbuild/CMakeFiles/ds-populate.dir
+/Users/lyubovkulik/thermostat/build/Qt_6_7_1_for_macOS-RelWithDebInfo/_deps/ds-subbuild/CMakeFiles/edit_cache.dir
+/Users/lyubovkulik/thermostat/build/Qt_6_7_1_for_macOS-RelWithDebInfo/_deps/ds-subbuild/CMakeFiles/rebuild_cache.dir

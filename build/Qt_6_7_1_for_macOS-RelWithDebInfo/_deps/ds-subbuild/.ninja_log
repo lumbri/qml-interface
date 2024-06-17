@@ -1,0 +1,21 @@
+# ninja log v6
+1	31	1718613761469062370	ds-populate-prefix/src/ds-populate-stamp/ds-populate-mkdir	a7cc2d3eb3d17a2f
+1	31	1718613761469062370	/Users/lyubovkulik/thermostat/build/Qt_6_7_1_for_macOS-RelWithDebInfo/_deps/ds-subbuild/ds-populate-prefix/src/ds-populate-stamp/ds-populate-mkdir	a7cc2d3eb3d17a2f
+32	4142	1718613765580028383	ds-populate-prefix/src/ds-populate-stamp/ds-populate-download	d802c7881163a1f9
+32	4142	1718613765580028383	/Users/lyubovkulik/thermostat/build/Qt_6_7_1_for_macOS-RelWithDebInfo/_deps/ds-subbuild/ds-populate-prefix/src/ds-populate-stamp/ds-populate-download	d802c7881163a1f9
+4142	4565	1718613765580699233	ds-populate-prefix/src/ds-populate-stamp/ds-populate-update	55320195509fa503
+4142	4565	1718613765580699233	/Users/lyubovkulik/thermostat/build/Qt_6_7_1_for_macOS-RelWithDebInfo/_deps/ds-subbuild/ds-populate-prefix/src/ds-populate-stamp/ds-populate-update	55320195509fa503
+4565	4600	1718613766037673437	ds-populate-prefix/src/ds-populate-stamp/ds-populate-patch	674b179f6b273052
+4565	4600	1718613766037673437	/Users/lyubovkulik/thermostat/build/Qt_6_7_1_for_macOS-RelWithDebInfo/_deps/ds-subbuild/ds-populate-prefix/src/ds-populate-stamp/ds-populate-patch	674b179f6b273052
+4601	4631	1718613766069086130	ds-populate-prefix/src/ds-populate-stamp/ds-populate-configure	bec2c88839233ae2
+4601	4631	1718613766069086130	/Users/lyubovkulik/thermostat/build/Qt_6_7_1_for_macOS-RelWithDebInfo/_deps/ds-subbuild/ds-populate-prefix/src/ds-populate-stamp/ds-populate-configure	bec2c88839233ae2
+4631	4661	1718613766098640535	ds-populate-prefix/src/ds-populate-stamp/ds-populate-build	e2c51ab836503374
+4631	4661	1718613766098640535	/Users/lyubovkulik/thermostat/build/Qt_6_7_1_for_macOS-RelWithDebInfo/_deps/ds-subbuild/ds-populate-prefix/src/ds-populate-stamp/ds-populate-build	e2c51ab836503374
+4661	4691	1718613766128842123	ds-populate-prefix/src/ds-populate-stamp/ds-populate-install	4009e612088f3773
+4661	4691	1718613766128842123	/Users/lyubovkulik/thermostat/build/Qt_6_7_1_for_macOS-RelWithDebInfo/_deps/ds-subbuild/ds-populate-prefix/src/ds-populate-stamp/ds-populate-install	4009e612088f3773
+4691	4721	1718613766159114878	ds-populate-prefix/src/ds-populate-stamp/ds-populate-test	203ddff7164e273d
+4691	4721	1718613766159114878	/Users/lyubovkulik/thermostat/build/Qt_6_7_1_for_macOS-RelWithDebInfo/_deps/ds-subbuild/ds-populate-prefix/src/ds-populate-stamp/ds-populate-test	203ddff7164e273d
+4721	4765	1718613766202483060	CMakeFiles/ds-populate-complete	446e42c8d00782d5
+4721	4765	1718613766202483060	ds-populate-prefix/src/ds-populate-stamp/ds-populate-done	446e42c8d00782d5
+4721	4765	1718613766202483060	/Users/lyubovkulik/thermostat/build/Qt_6_7_1_for_macOS-RelWithDebInfo/_deps/ds-subbuild/CMakeFiles/ds-populate-complete	446e42c8d00782d5
+4721	4765	1718613766202483060	/Users/lyubovkulik/thermostat/build/Qt_6_7_1_for_macOS-RelWithDebInfo/_deps/ds-subbuild/ds-populate-prefix/src/ds-populate-stamp/ds-populate-done	446e42c8d00782d5

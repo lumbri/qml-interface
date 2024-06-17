@@ -1,0 +1,11 @@
+module thermostat
+linktarget thermostatplugin
+optional plugin thermostatplugin
+classname thermostatPlugin
+typeinfo thermostat.qmltypes
+prefer :/qt/qml/thermostat/
+singleton Constants 1.0 Constants.qml
+DirectoryFontLoader 1.0 DirectoryFontLoader.qml
+EventListModel 1.0 EventListModel.qml
+EventListSimulator 1.0 EventListSimulator.qml
+

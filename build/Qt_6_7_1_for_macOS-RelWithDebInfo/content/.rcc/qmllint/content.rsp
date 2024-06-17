@@ -1,0 +1,13 @@
+--bare
+-I
+/Users/lyubovkulik/thermostat/build/Qt_6_7_1_for_macOS-RelWithDebInfo/qml
+-I
+/Users/lyubovkulik/thermostat/build/Qt_6_7_1_for_macOS-RelWithDebInfo/qml
+-I
+/Users/lyubovkulik/Qt/6.7.1/macos/./qml
+--resource
+/Users/lyubovkulik/thermostat/build/Qt_6_7_1_for_macOS-RelWithDebInfo/content/.qt/rcc/qmake_content.qrc
+--resource
+/Users/lyubovkulik/thermostat/build/Qt_6_7_1_for_macOS-RelWithDebInfo/content/.qt/rcc/content_raw_qml_0.qrc
+/Users/lyubovkulik/thermostat/content/App.qml
+/Users/lyubovkulik/thermostat/content/Screen01.ui.qml
